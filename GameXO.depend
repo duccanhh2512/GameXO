@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1744121483 source:e:\gamexo\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+	"logic.h"
+	"audio.h"
+	"ai.h"
+
+1744123465 e:\gamexo\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	"logic.h"
+	<SDL_ttf.h>
+	<string>
+
+1744122811 e:\gamexo\defs.h
+
+1744117623 e:\gamexo\logic.h
+	<queue>
+	<utility>
+
+1744113973 e:\gamexo\audio.h
+	<SDL_mixer.h>
+	<iostream>
+
+1744117623 source:e:\gamexo\ai.cpp
+	"ai.h"
+
+1744117623 e:\gamexo\ai.h
+	"logic.h"
+
+1744117623 source:e:\gamexo\logic.cpp
+	"logic.h"
+
+1744118211 e:\gamexo\gameutils.h
+	<SDL.h>
+	"logic.h"
+
+1744118353 source:e:\gamexo\gameutils.cpp
+
